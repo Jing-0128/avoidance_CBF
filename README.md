@@ -1,2 +1,3 @@
 # avoidance_CBF
 这是一个四旋翼无人机根据传感器用于局部避障的仓库，方法主要是使用Control barrier function方法，构建出障碍函数和控制不等式，再转换为二次规划问题求解控制修正量去修正出最终的，从而实现障碍物避障。
+使用代码之前，建议先去学习Control barrier function相关的理论知识，不难。
