@@ -3,7 +3,7 @@ import numpy as np
 import cvxpy as cp
 
 
-#在使用之前，建议去学习Control barrier function相关的知识
+#在使用之前，建议去学习Control barrier function(CBF)相关的知识
 
 
 #1、函数区别：
